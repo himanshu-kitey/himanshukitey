@@ -1,0 +1,3 @@
+[submodule "KM_GITHUB"]
+	path = KM_GITHUB
+	url = https://github.com/kernelmasters/beagleboneblack-uboot.git
