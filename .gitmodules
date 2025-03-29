@@ -1,3 +1,6 @@
 [submodule "KM_GITHUB"]
 	path = KM_GITHUB
 	url = https://github.com/kernelmasters/beagleboneblack-uboot.git
+[submodule "DeviceDrivers/KM_DeviceDrivers/KM_GITHUB/beagleboneblack-kernal"]
+	path = DeviceDrivers/KM_DeviceDrivers/KM_GITHUB/beagleboneblack-kernal
+	url = https://github.com/kernelmasters/beagleboneblack-kernel.git
